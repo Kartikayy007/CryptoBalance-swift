@@ -1,0 +1,15 @@
+{
+  "originHash" : "751cf4f2a8cf8a36d7bb4ebfb56acb51633fd44bfd2068d78315c3ca2323475d",
+  "pins" : [
+    {
+      "identity" : "navkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ilakshaygupt/NavKit",
+      "state" : {
+        "revision" : "6b6eec92474a6aa68e5889d79585b5665369ee52",
+        "version" : "1.0.4"
+      }
+    }
+  ],
+  "version" : 3
+}
