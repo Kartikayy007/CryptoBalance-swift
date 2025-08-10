@@ -98,6 +98,16 @@ CryptoTask/
 - **Wallet Manager**: Digital wallet management (development in progress)
 
 
+<img width="237" height="515" alt="Screenshot 2025-08-08 at 10 23 57 PM" src="https://github.com/user-attachments/assets/03dcc4f1-aa4e-44cb-94fd-41f7e3fb5fd3" />
+<img width="245" height="517" alt="Screenshot 2025-08-08 at 10 24 53 PM" src="https://github.com/user-attachments/assets/4a804d8a-d508-40ac-8421-96edbddcf85b" />
+<img width="236" height="509" alt="Screenshot 2025-08-08 at 10 25 22 PM" src="https://github.com/user-attachments/assets/a090357e-aa0b-456b-9fea-78d8137be07a" />
+<img width="245" height="516" alt="Screenshot 2025-08-08 at 10 24 25 PM" src="https://github.com/user-attachments/assets/c575300c-9d5e-4b15-8930-ef2250fe4d8e" />
+<img width="240" height="515" alt="Screenshot 2025-08-08 at 10 23 17 PM" src="https://github.com/user-attachments/assets/926d0325-c645-47d0-8406-b38c8084081e" />
+<img width="242" height="517" alt="Screenshot 2025-08-08 at 10 24 42 PM" src="https://github.com/user-attachments/assets/752aa52b-fd28-48cc-a587-d7df1acc0df9" />
+<img width="241" height="517" alt="Screenshot 2025-08-08 at 10 24 11 PM" src="https://github.com/user-attachments/assets/1325bdd7-b2df-411c-9bbd-8945455bb163" />
+<img width="247" height="519" alt="Screenshot 2025-08-08 at 10 23 43 PM" src="https://github.com/user-attachments/assets/99b35b09-4277-4b3e-bd39-dd5838abb767" />
+
+
 #### 🟢 Future Enhancements
 6. **Advanced Trading Features**
    - Direct trading functionality integration
