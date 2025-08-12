@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/46de2359-324c-486a-bace-19a01785e48a
 
 **Step 1: Repository Setup**
 ```bash
-git clone https://github.com/ilakshaygupt/CryptoPortfolio-Swift
+https://github.com/Kartikayy007/CryptoBalance-swift.git
 cd CryptoTask
 ```
 
