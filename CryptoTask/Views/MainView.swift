@@ -37,12 +37,12 @@ struct MainView: View {
                     
                 }
                 else if viewModel.selectedTab == "Record" {
-                    Text("Record Screen")
-                        .foregroundColor(.white)
+                    RecordScreen()
+                        .padding(.bottom, 120)
                 }
                 else if viewModel.selectedTab == "Wallet" {
-                    Text("Wallet Screen")
-                        .foregroundColor(.white)
+                    WalletScreen()
+                        .padding(.bottom, 120)
                 }
 
                 Spacer(minLength: 0)

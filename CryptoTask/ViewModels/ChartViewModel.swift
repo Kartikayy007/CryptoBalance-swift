@@ -17,15 +17,10 @@ class ChartViewModel: ObservableObject {
         let value: Double
     }
     
-    @Published var chartData: [DataPoint] = [
-        .init(date: "20 Mar", value: 85000),
-        .init(date: "21 Mar", value: 110000),
-        .init(date: "22 Mar", value: 95000),
-        .init(date: "23 Mar", value: 125000),
-        .init(date: "24 Mar", value: 142340),
-        .init(date: "25 Mar", value: 115000),
-        .init(date: "26 Mar", value: 130000)
-    ]
+    @Published var chartData: [DataPoint] = (20...26).map { day in
+        .init(date: "\(day) Mar", value: Double.random(in: 85000...145000))
+    }
+
     
     var maxValue: Double {
         chartData.map { $0.value }.max() ?? 1
